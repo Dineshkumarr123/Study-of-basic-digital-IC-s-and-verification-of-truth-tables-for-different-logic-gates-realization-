@@ -81,6 +81,8 @@ endmodule
 
 
 Logic symbol & Truthtable
+![WhatsApp Image 2023-06-10 at 13 00 10](https://github.com/Dineshkumarr123/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/130551452/6cc00f02-7177-439c-9506-3ab24be421fc)
+
 RTL realization
 Output: 
 
