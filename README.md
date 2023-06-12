@@ -93,4 +93,6 @@ RTL
 PNG(![Screenshot (22)](https://user-images.githubusercontent.com/130551452/231415314-9b9734e1-9297-4394-82b3-1bd5b8555341.png)
 PNG(![Screenshot (24)](https://user-images.githubusercontent.com/130551452/231415996-ba1fe34f-1b3f-470a-9bf1-2be80d0732ed.png)
 Result:
+
+\
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
